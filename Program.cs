@@ -22,7 +22,7 @@ namespace Abstraction
             transportasi.Kendaraan();
 
 
-            /*ITransportasi transportasi;       // Menggunakan Abstract Class
+            /*ITransportasi transportasi;       // Menggunakan Interface Class
             transportasi = new Pesawat();
             transportasi.Kendaraan();
             Console.WriteLine();
